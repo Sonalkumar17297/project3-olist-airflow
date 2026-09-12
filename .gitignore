@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual Environment
+airflow-env/
+venv/
+.env
+
+# Airflow
+logs/
+airflow.db
+airflow.cfg
+webserver_config.py
+
+# Data files (too large for GitHub)
+data/*.csv
+
+# Output
+output/
+
+# VS Code
+.vscode/
