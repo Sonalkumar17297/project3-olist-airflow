@@ -1,5 +1,5 @@
 
-# Project 3 — Olist E-commerce ETL Pipeline
+# Project 3 — Airflow ETL Pipeline — Olist E-commerce Data
 
 ## Overview
 An end-to-end Airflow-orchestrated ETL pipeline that extracts raw Brazilian 
